@@ -1,0 +1,15 @@
+{
+  "name": "professional-backend",
+  "version": "1.0.0",
+  "description": "professional backend",
+  "keywords": [
+    "Js"
+  ],
+  "license": "ISC",
+  "author": "Arun",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
